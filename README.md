@@ -6,11 +6,8 @@
 
 Team members \- Andreas Kelder, Richard Mario Raun
 
-# Task 1\. Setting up
 
-# Link to repository: [https://github.com/RichardMarioRaun/IDS-crime-data](https://github.com/RichardMarioRaun/IDS-crime-data) 
-
-# Task 2\. Business understanding 
+# Business understanding 
 
 #### **Background**
 
@@ -98,7 +95,7 @@ The study is deemed successful if it provides actionable insights into:
 
 This analysis provides critical insights into urban safety. Comparing Vancouver to Portland, LA, and Chicago helps understand crime disparities and severity. Seasonal and temporal patterns can inform where to not go at a given time of day. Success will be measured by the clarity, comparability, and policy relevance of the insights derived from this analysis.
 
-# Task 3\. Data understanding 
+#  Data understanding 
 
 #### **Gathering Data**
 
@@ -178,7 +175,7 @@ Preliminary findings include:
 
 # 
 
-# Task 4\. Project plan
+# Project plan
 
 #### **Project Plan and Tasks**
 
